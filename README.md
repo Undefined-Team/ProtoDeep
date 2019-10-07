@@ -1,2 +1,2 @@
-# ProtoDeep usage Lib by Undefined
-C lib for neural network simplified usage (ProtoDeep part 3)
+# ProtoDeep Lib by Undefined
+C lib for neural network (ProtoDeep main part)
