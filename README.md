@@ -1,2 +1,2 @@
-# Utils Lib by Undefined
-Simple C lib for multiple tools
+# ProtoDeep usage Lib by Undefined
+C lib for neural network simplified usage (ProtoDeep part 3)
