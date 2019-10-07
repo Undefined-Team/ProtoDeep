@@ -1,2 +1,2 @@
-# ProtoDeep_nn_simplified_usage-Lib_by_Undefined
+# ProtoDeep nn simplified usage Lib by Undefined
 Simple C lib for neural network simplified usage (ProtoDeep part 3)
